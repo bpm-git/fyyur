@@ -1,4 +1,10 @@
 babel
 python-dateutil==2.6.0
+datetime
+flask
+flask_sqlalchemy
 flask-moment
 flask-wtf
+flask_migrate
+logging
+sqlalchemy
